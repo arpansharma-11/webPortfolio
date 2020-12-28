@@ -343,7 +343,6 @@ section.blog .card-wrapper .card .card-content a.read-more{
 }
 
 section.contact .card img{
-    background:var(--dark);
     width: 100px;
     height: 100px;
     object-fit: contain;
